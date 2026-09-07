@@ -1,5 +1,8 @@
 package org.example;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -12,6 +15,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public  class TextSalaryParser implements SalaryRecordParser {
+
+    private static final Logger log = LoggerFactory.getLogger(TextSalaryParser.class);
 
     @Override
     public List<SalaryRecord> parse(File file) throws IOException {
@@ -31,10 +36,10 @@ public  class TextSalaryParser implements SalaryRecordParser {
                     LocalDate date = LocalDate.parse(matcher.group(3), formatter);
                     results.add(new SalaryRecord(name, salary, date));
                 } else {
-                    System.err.println("Invalid record format!" + line);
+                    log.error("Invalid record format!{}", line);
                 }
             } catch (Exception e) {
-                System.err.println("Invalid record format!" + line + " " + e.getMessage());
+                log.error("Invalid record format!{} {}", line, e.getMessage());
             }
         }
         return results;

@@ -1,5 +1,7 @@
 package org.example;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -17,6 +19,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class XmlSalaryParser implements SalaryRecordParser {
+
+    private static final Logger log = LoggerFactory.getLogger(XmlSalaryParser.class);
+
     @Override
     public List<SalaryRecord> parse(File file) throws IOException {
         List<SalaryRecord> results = new ArrayList<>();
@@ -51,7 +56,7 @@ public class XmlSalaryParser implements SalaryRecordParser {
                     String dateText = getElementText(recordElement, "date");
 
                     if (name.trim().isEmpty() || !name.trim().matches("\\w+")) {
-                        System.err.println("Invalid record format! Invalid name in record " + (i + 1));
+                        log.error("Invalid record format! Invalid name in record {}", i + 1);
                         continue;
                     }
 
@@ -59,17 +64,17 @@ public class XmlSalaryParser implements SalaryRecordParser {
                     LocalDate date = LocalDate.parse(dateText.trim(), formatter);
 
                     if (salary < 0) {
-                        System.err.println("Invalid record format! Negative salary in record " + (i + 1));
+                        log.error("Invalid record format! Negative salary in record {}", i + 1);
                         continue;
                     }
 
                     results.add(new SalaryRecord(name.trim(), salary, date));
                 } catch (Exception e) {
-                    System.err.println("Invalid record format! Record " + (i + 1) + " " + e.getMessage());
+                    log.error("Invalid record format! Record {} {}", i + 1, e.getMessage());
                 }
             }
         } catch (ParserConfigurationException | SAXException e) {
-            System.err.println("Failed to parse XML file: " + e.getMessage());
+            log.error("Failed to parse XML file: {}", e.getMessage());
         }
 
         return results;
