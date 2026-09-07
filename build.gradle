@@ -1,18 +1,11 @@
 plugins {
     id 'java'
     id 'application'
+    id 'com.gradleup.shadow' version '8.3.5'
 }
 
 group = 'org.example'
 version = '1.0-SNAPSHOT'
-
-jar {
-    manifest {
-        attributes(
-                'Main-Class': application.mainClass
-        )
-    }
-}
 
 application {
     mainClass = 'org.example.Main'
@@ -37,4 +30,10 @@ dependencies {
 
 test {
     useJUnitPlatform()
+}
+
+shadowJar {
+    archiveBaseName.set('gradle_based')
+    archiveClassifier.set('all')
+    mergeServiceFiles()
 }
