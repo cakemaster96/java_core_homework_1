@@ -15,7 +15,7 @@ jar {
 }
 
 application {
-    mainClass = 'org.example.MainOOP'
+    mainClass = 'org.example.Main'
 }
 
 repositories {
