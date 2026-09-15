@@ -1,7 +1,0 @@
-[ {
-  "uuid" : "cab6d057-a2b3-4053-ab92-755f7d5759a6",
-  "name" : "Юлия Игоревна Игнатова",
-  "age" : 37,
-  "salary" : 51719,
-  "profession" : "ARTIST"
-} ]
