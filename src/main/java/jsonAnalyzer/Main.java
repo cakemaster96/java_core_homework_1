@@ -46,7 +46,7 @@ public class Main {
                         .replace("_data.txt", "_analytics.txt");
                 Path outputFile = outputDirectory.resolve(outputFileName);
                 Files.write(outputFile, json.getBytes());
-                emailNotificationService.sendEmail("isicjua@gmail.com", messageContent, json.getBytes());
+                emailNotificationService.sendEmail("deviantvector@gmail.com", messageContent, json.getBytes());
                 Path destination = processedDirectory.resolve(file.getFileName());
                 Files.move(file, destination); //Перемещаем прочитанный файл директорию processedDirectory
             }
