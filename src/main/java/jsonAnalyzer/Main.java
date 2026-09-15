@@ -30,6 +30,12 @@ public class Main {
         for (Path file : files) {
             try {
                 String text = Files.readString(file); //читаем строку из файла
+                if (text.isBlank()) {
+                    System.err.println(
+                            "Пропущен пустой файл: " + file.toAbsolutePath()
+                    );
+                    continue;
+                }
                 List<Employee> employees = mapper.readValue(text, new TypeReference<ArrayList<Employee>>() {});
                 List<Analytic> analytics = analyzer.toAnalytics(employees);
                 String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(analytics);
@@ -45,6 +51,7 @@ public class Main {
                 Files.move(file, destination); //Перемещаем прочитанный файл директорию processedDirectory
             }
             catch (IOException e) {
+                System.err.println("Ошибка обработки файла: " + file.toAbsolutePath());
                 e.printStackTrace();
             }
         }
