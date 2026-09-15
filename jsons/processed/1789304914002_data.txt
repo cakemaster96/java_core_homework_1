@@ -1,0 +1,73 @@
+[ {
+  "uuid" : "90c4407f-d0a1-4a3f-ae1d-800d81a613b4",
+  "name" : "Игнатий Антонович Горшков",
+  "age" : 24,
+  "salary" : 147045,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "139e8c58-eef7-401f-8223-957ccccb8c1b",
+  "name" : "Панов Альберт",
+  "age" : 46,
+  "salary" : 115766,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "730c4e9a-af94-43a9-98c8-8085e45c0fc1",
+  "name" : "Таисия Яковлева",
+  "age" : 58,
+  "salary" : 120802,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "60b68dd6-0c9a-47cf-89b2-9a751597816b",
+  "name" : "Наумова Антонида",
+  "age" : 48,
+  "salary" : 107842,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "8716b033-1192-4a81-8d08-aeaf94aea9eb",
+  "name" : "Илья Колобов",
+  "age" : 48,
+  "salary" : 77695,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "7351517d-961a-4fc7-88d2-f7afef817687",
+  "name" : "Поляков Степан Владиславович",
+  "age" : 49,
+  "salary" : 134661,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "a301e24a-e6f8-4520-99ae-fc0b67b0e752",
+  "name" : "Ирина Антоновна Маркова",
+  "age" : 45,
+  "salary" : 90578,
+  "profession" : "IT"
+}, {
+  "uuid" : "2273add6-0fb1-42db-ad1f-2329d17b4be1",
+  "name" : "Ширяева Арина Игнатьевна",
+  "age" : 61,
+  "salary" : 130537,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "d16d1e41-8d38-41d3-a6a3-4742af4b974d",
+  "name" : "Оксана Кудряшова",
+  "age" : 33,
+  "salary" : 76173,
+  "profession" : "IT"
+}, {
+  "uuid" : "49e6b279-bed1-4c94-831c-f11c28195f71",
+  "name" : "Вероника Вадимовна Субботина",
+  "age" : 27,
+  "salary" : 73310,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "1c1e2c65-b9af-4570-86a6-a8727fb1f958",
+  "name" : "Лаврентий Большаков",
+  "age" : 52,
+  "salary" : 102118,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "0d31d15c-b3bc-4285-856c-f0f5e5cb30f2",
+  "name" : "Дьячкова Римма Игоревна",
+  "age" : 50,
+  "salary" : 131014,
+  "profession" : "ACCOUNTANT"
+} ]

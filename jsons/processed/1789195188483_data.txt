@@ -1,0 +1,61 @@
+[ {
+  "uuid" : "99749f79-d9e1-4385-a9df-39ff36eedd04",
+  "name" : "Константин Белоусов",
+  "age" : 55,
+  "salary" : 119448,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "6a678cb4-8063-4e67-831a-1b306acc1cb0",
+  "name" : "Фролов Николай Георгиевич",
+  "age" : 20,
+  "salary" : 53500,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "192191c8-febd-409b-8c0a-ae599e0e130f",
+  "name" : "Станислав Даниилович Соколов",
+  "age" : 33,
+  "salary" : 61448,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "25e96633-f924-4cd0-8b68-6c516df68e4d",
+  "name" : "Цветкова Галина Максимовна",
+  "age" : 26,
+  "salary" : 124774,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "8c7859cb-2cfe-47c2-93c5-d5ac53953182",
+  "name" : "Марина Юрьевна Филиппова",
+  "age" : 26,
+  "salary" : 103146,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "a01b46d3-16d1-4832-a950-1e85d70e3e34",
+  "name" : "Роман Арсеньевич Орлов",
+  "age" : 23,
+  "salary" : 79132,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "80dcb30b-6a72-4f58-be22-e410c4247cd4",
+  "name" : "Семенов Ярослав",
+  "age" : 28,
+  "salary" : 119278,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "06216ddf-66d7-4d2c-a463-66f74b28c356",
+  "name" : "Антон Артёмович Тетерин",
+  "age" : 53,
+  "salary" : 138955,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "dc2acd38-c404-44b7-b8df-029605635853",
+  "name" : "Шашков Герман",
+  "age" : 22,
+  "salary" : 78745,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "8fb2e363-41f4-4bb6-be84-c24eaab60dae",
+  "name" : "Маргарита Лаврентьевна Кулакова",
+  "age" : 25,
+  "salary" : 70351,
+  "profession" : "ARTIST"
+} ]

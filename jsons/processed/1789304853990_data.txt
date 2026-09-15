@@ -1,0 +1,31 @@
+[ {
+  "uuid" : "8a4176e2-257b-432a-a6e9-b27ebc7755c9",
+  "name" : "Ксения Овчинникова",
+  "age" : 35,
+  "salary" : 87632,
+  "profession" : "IT"
+}, {
+  "uuid" : "2114e73e-a77a-468c-88b9-a772668fa6e0",
+  "name" : "Виктория Аркадьевна Исакова",
+  "age" : 61,
+  "salary" : 52245,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "95483434-2d45-4340-9e61-f8860c50b5c2",
+  "name" : "Борис Лукич Егоров",
+  "age" : 34,
+  "salary" : 50526,
+  "profession" : "IT"
+}, {
+  "uuid" : "1c7f12f5-db7f-476d-9850-caf6f6dab601",
+  "name" : "Борис Владимирович Зуев",
+  "age" : 54,
+  "salary" : 135377,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "fb558a5f-633f-4a0f-908b-3dfc061e1d45",
+  "name" : "Алевтина Олеговна Архипова",
+  "age" : 26,
+  "salary" : 139551,
+  "profession" : "ARTIST"
+} ]

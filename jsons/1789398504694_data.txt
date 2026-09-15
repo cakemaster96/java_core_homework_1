@@ -1,0 +1,91 @@
+[ {
+  "uuid" : "c51bc206-0455-4a62-8a85-9a938a2da549",
+  "name" : "Михаил Лукич Воронцов",
+  "age" : 53,
+  "salary" : 112781,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "504db988-3720-4192-93f2-1134fc3bf409",
+  "name" : "Журавлева Валентина Эдуардовна",
+  "age" : 50,
+  "salary" : 109250,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "202bd8c9-3be2-46b0-9823-1ffc802c22ce",
+  "name" : "Виктория Кириллова",
+  "age" : 41,
+  "salary" : 125296,
+  "profession" : "IT"
+}, {
+  "uuid" : "e67ed248-0c9f-4879-8c64-8b4289b73bd1",
+  "name" : "Вадим Андреевич Рыбаков",
+  "age" : 58,
+  "salary" : 125853,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "57649583-61c1-4863-8f17-d50de5d5f60e",
+  "name" : "Колобова Ангелина Аркадьевна",
+  "age" : 56,
+  "salary" : 79181,
+  "profession" : "IT"
+}, {
+  "uuid" : "1d77f2ec-a2f1-4918-9d08-babaa8b19786",
+  "name" : "Игнатьев Евгений",
+  "age" : 60,
+  "salary" : 144852,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "8672a942-1031-4c00-9679-2699408ebcaf",
+  "name" : "Елисеев Егор Константинович",
+  "age" : 52,
+  "salary" : 81119,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "4e11606e-3e7b-4c62-b87c-1543a660f6a4",
+  "name" : "Георгий Панфилов",
+  "age" : 38,
+  "salary" : 112485,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "49b527e4-29d5-4389-8129-b64eeba2fc15",
+  "name" : "Рябова Алла",
+  "age" : 47,
+  "salary" : 58127,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "76cbd878-7259-43bd-9485-a237ad2349e8",
+  "name" : "Вера Крылова",
+  "age" : 47,
+  "salary" : 91794,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "dffc4906-9a8a-4ffa-9673-98ce31805211",
+  "name" : "Константин Васильевич Ситников",
+  "age" : 62,
+  "salary" : 136618,
+  "profession" : "IT"
+}, {
+  "uuid" : "1f95d2f1-4bf3-4a01-b0d0-08e6d3327657",
+  "name" : "Журавлев Лаврентий",
+  "age" : 56,
+  "salary" : 51832,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "4db7552e-818d-4b50-9f2f-d0ff91bec1de",
+  "name" : "Борисов Денис Даниилович",
+  "age" : 26,
+  "salary" : 83842,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "bff9dda5-ac72-4fb8-a852-8c21410c035e",
+  "name" : "Юлия Георгиевна Владимирова",
+  "age" : 62,
+  "salary" : 94739,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "8542f634-2975-48c5-b5ef-af6ef5c24fbf",
+  "name" : "Ольга Филиппова",
+  "age" : 21,
+  "salary" : 74645,
+  "profession" : "IT"
+} ]

@@ -1,0 +1,73 @@
+[ {
+  "uuid" : "b86c0d47-65c7-49c5-8707-08e4f0ddc36a",
+  "name" : "Вишняков Борис Александрович",
+  "age" : 39,
+  "salary" : 133111,
+  "profession" : "IT"
+}, {
+  "uuid" : "3e7ce2fc-be52-4d76-9ae5-d6c96b37cee0",
+  "name" : "Кошелева Лариса Сергеевна",
+  "age" : 38,
+  "salary" : 138728,
+  "profession" : "IT"
+}, {
+  "uuid" : "d1cd672d-cc5f-450f-8114-237421df3702",
+  "name" : "Некрасова Ирина",
+  "age" : 45,
+  "salary" : 110400,
+  "profession" : "IT"
+}, {
+  "uuid" : "51173a5d-17dc-431d-9b9e-c415a0a0d79a",
+  "name" : "Лука Аркадьевич Королев",
+  "age" : 43,
+  "salary" : 146474,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "8acc64c1-dd9c-46d5-841d-b5fe042c5bf3",
+  "name" : "Зиновьев Михаил",
+  "age" : 43,
+  "salary" : 57513,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "192bb8b2-9ade-4a30-acda-6d398e967847",
+  "name" : "Макар Мясников",
+  "age" : 55,
+  "salary" : 78610,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "004bc209-1e87-4ccb-a183-e48986691a9c",
+  "name" : "Молчанов Фёдор",
+  "age" : 55,
+  "salary" : 64840,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "e64952bf-6b09-4d1f-8ff0-38f0400014dd",
+  "name" : "Ольга Суханова",
+  "age" : 57,
+  "salary" : 68590,
+  "profession" : "IT"
+}, {
+  "uuid" : "5aeadd5d-4e31-4384-bf2c-90fd49f43408",
+  "name" : "Вера Семёновна Медведева",
+  "age" : 49,
+  "salary" : 90199,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "65350228-a88c-40eb-9c7b-0ad25f5c0867",
+  "name" : "Фёдор Иванович Лыткин",
+  "age" : 60,
+  "salary" : 70469,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "357593b6-987b-47e3-aba3-92e8b99e9ca6",
+  "name" : "Исакова Тамара Вячеславовна",
+  "age" : 42,
+  "salary" : 117059,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "ac6e4bea-f4bc-4670-a112-d2ed7a7968cc",
+  "name" : "Никитина Екатерина",
+  "age" : 51,
+  "salary" : 141056,
+  "profession" : "ACCOUNTANT"
+} ]

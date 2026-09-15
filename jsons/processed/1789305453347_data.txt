@@ -1,0 +1,121 @@
+[ {
+  "uuid" : "0e9ce4db-e328-4290-9af2-07d4344c7bc9",
+  "name" : "Якушева Галина Вадимовна",
+  "age" : 37,
+  "salary" : 81976,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "000d0933-3f12-4493-adf0-d1001e84ef6c",
+  "name" : "Матвей Лаврентьевич Мельников",
+  "age" : 63,
+  "salary" : 59604,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "27600124-dc2b-4ae4-8d7f-7ed5c855fc4e",
+  "name" : "Лука Данилов",
+  "age" : 41,
+  "salary" : 148211,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "c327301f-dc9b-4546-8392-43319c9147ca",
+  "name" : "Эдуард Игнатьевич Воробьев",
+  "age" : 32,
+  "salary" : 148598,
+  "profession" : "IT"
+}, {
+  "uuid" : "0994afa1-6718-486a-ac9f-6b15bf70c765",
+  "name" : "Никита Дроздов",
+  "age" : 39,
+  "salary" : 71833,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "8b0e7bbb-48d4-4205-ba35-c33091fcdcac",
+  "name" : "Вероника Ковалева",
+  "age" : 49,
+  "salary" : 120975,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "c43d8caa-4b18-40b7-8f66-fb5b3a9a53db",
+  "name" : "Ульяна Васильева",
+  "age" : 37,
+  "salary" : 105468,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "8d01474a-1973-47a3-9bec-22acdf56c8ea",
+  "name" : "Шашков Игнатий",
+  "age" : 45,
+  "salary" : 117845,
+  "profession" : "IT"
+}, {
+  "uuid" : "4fd52d64-5ed8-4d42-8ce1-8f2576678d56",
+  "name" : "Эдуард Вячеславович Максимов",
+  "age" : 22,
+  "salary" : 109160,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "cd8ade37-0767-4833-8c22-032cf0a28cd3",
+  "name" : "Людмила Артёмовна Зайцева",
+  "age" : 49,
+  "salary" : 93562,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "1908efcf-2c73-470e-8c03-384f2749d085",
+  "name" : "Татьяна Денисовна Денисова",
+  "age" : 45,
+  "salary" : 125962,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "3be49253-0971-491b-91d3-4896e302113c",
+  "name" : "Соболева Лариса Геннадьевна",
+  "age" : 39,
+  "salary" : 123464,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "1d033c4d-3255-4449-96d3-f73857cbce2a",
+  "name" : "Евгений Блинов",
+  "age" : 47,
+  "salary" : 118308,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "32b0fd3c-f11a-41b3-9897-49efe4478142",
+  "name" : "Семён Михайлович Мамонтов",
+  "age" : 52,
+  "salary" : 122938,
+  "profession" : "IT"
+}, {
+  "uuid" : "180d93c6-1e46-4247-bdfd-eb01f7c929f7",
+  "name" : "Дмитриева Алина Васильевна",
+  "age" : 39,
+  "salary" : 134229,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "bac9073a-9ec8-4e37-ae6f-c230396b38e8",
+  "name" : "Лука Германович Фомичев",
+  "age" : 58,
+  "salary" : 60941,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "c50494e5-0516-4b3f-aba1-c607381a8610",
+  "name" : "Киселева Ангелина",
+  "age" : 46,
+  "salary" : 63044,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "17db85db-5606-4c02-bd57-7509993d2b8d",
+  "name" : "Герман Рогов",
+  "age" : 26,
+  "salary" : 53396,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "a2541aeb-42b0-4331-97a7-1603d8b25509",
+  "name" : "Макар Васильевич Беспалов",
+  "age" : 58,
+  "salary" : 125291,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "dbe7a829-31d6-4235-b878-3f70e8a98493",
+  "name" : "Вадим Галкин",
+  "age" : 41,
+  "salary" : 61995,
+  "profession" : "IT"
+} ]

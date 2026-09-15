@@ -1,0 +1,43 @@
+[ {
+  "uuid" : "09c236fb-3265-414c-a24d-3ff0df989084",
+  "name" : "Копылов Лука Борисович",
+  "age" : 56,
+  "salary" : 59615,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "3ffd2413-4a8d-47c4-8cac-0cafd62ae49a",
+  "name" : "Мясникова Лариса",
+  "age" : 21,
+  "salary" : 109770,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "91c89441-9456-4f78-b075-921f124b7573",
+  "name" : "Людмила Борисовна Белоусова",
+  "age" : 55,
+  "salary" : 97017,
+  "profession" : "ACCOUNTANT"
+}, {
+  "uuid" : "8b51b918-6823-4a25-a8df-5e3952bd538b",
+  "name" : "Марина Гурьева",
+  "age" : 46,
+  "salary" : 87456,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "17bedfc9-42a8-4384-9a90-629729d0233d",
+  "name" : "Суханова Вероника Валентиновна",
+  "age" : 24,
+  "salary" : 110100,
+  "profession" : "ARTIST"
+}, {
+  "uuid" : "db862d9a-1e9e-4077-9014-d4a9adef26bd",
+  "name" : "Комиссарова Варвара",
+  "age" : 55,
+  "salary" : 111795,
+  "profession" : "IT"
+}, {
+  "uuid" : "5f89cacb-6687-48e4-9dd5-7923f31a6c95",
+  "name" : "Потапова Александра Германовна",
+  "age" : 44,
+  "salary" : 91155,
+  "profession" : "IT"
+} ]

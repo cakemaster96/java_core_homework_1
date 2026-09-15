@@ -1,4 +1,4 @@
-package org.example;
+package jsonAnalyzer;
 
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;

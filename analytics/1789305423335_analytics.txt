@@ -1,0 +1,13 @@
+[ {
+  "profession" : "ARTIST",
+  "averageSalary" : 74198,
+  "averageAge" : 52
+}, {
+  "profession" : "ACCOUNTANT",
+  "averageSalary" : 117357,
+  "averageAge" : 48
+}, {
+  "profession" : "IT",
+  "averageSalary" : 112707,
+  "averageAge" : 45
+} ]
